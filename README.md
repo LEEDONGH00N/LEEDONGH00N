@@ -15,7 +15,3 @@
 
 #### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imhoony0126)](https://solved.ac/백준아이디/)
